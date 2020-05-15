@@ -7,6 +7,7 @@
         <module>eureka</module>
         <module>client1</module>
         <module>client1-consul</module>
+        <module>config</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
