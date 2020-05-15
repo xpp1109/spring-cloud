@@ -5,7 +5,8 @@ spring:
     config:
       server:
         git:
-          uri:
+          uri: https://github.com/shizhenchao/spring-cloud.git
+          search-paths: config-files
 server:
   port: 8000
 eureka:
