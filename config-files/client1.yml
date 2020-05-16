@@ -2,3 +2,4 @@ env:
   default
 author:
   shizhenchao
+encrypt: '{cipher} c8cc64e19d53386d6019eddf2670f375534f3620d8e5c89068bbc68be54fed061571622e3579903a0937b5d1449ddf08'
