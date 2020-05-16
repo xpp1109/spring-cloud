@@ -1,6 +1,9 @@
 spring:
   application:
     name: client1
+  cloud:
+    config:
+      uri: http://localhost:8000
 server:
   port: 7000
 eureka:
