@@ -11,6 +11,7 @@
         <module>circuitbreaker</module>
         <module>hystrix-dashboard</module>
         <module>turbine</module>
+        <module>client2</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

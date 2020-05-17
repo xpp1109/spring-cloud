@@ -1,5 +1,5 @@
 turbine:
-  app-config: circuitbreaker
+  app-config: circuitbreaker,client2
   cluster-name-expression: new String("default")
   aggregator:
     cluster-config: default
