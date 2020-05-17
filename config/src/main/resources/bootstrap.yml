@@ -7,6 +7,8 @@ spring:
         git:
           uri: https://github.com/shizhenchao/spring-cloud-config-files.git
           search-paths: config-files
+        encrypt:
+          enabled: true
 server:
   port: 8000
 eureka:
@@ -17,4 +19,6 @@ management:
   endpoints:
     web:
       exposure:
-        include: bus-refresh, bus-env
+        include: "*"
+encrypt:
+  key: 'shizhenchao'
