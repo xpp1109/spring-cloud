@@ -1,0 +1,19 @@
+turbine:
+  app-config: circuitbreaker
+  cluster-name-expression: new String("default")
+  aggregator:
+    cluster-config: default
+spring:
+  application:
+    name: turbine
+server:
+  port: 9003
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+management:
+  endpoints:
+    web:
+      exposure:
+        include: ["turbine.stream"]

@@ -1,0 +1,10 @@
+server:
+  port: 7009
+spring:
+  application:
+    name: circuitbreaker
+management:
+  endpoints:
+    web:
+      exposure:
+        include: ["hystrix.stream"]

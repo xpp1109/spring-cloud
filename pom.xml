@@ -8,6 +8,9 @@
         <module>client1</module>
         <module>client1-consul</module>
         <module>config</module>
+        <module>circuitbreaker</module>
+        <module>hystrix-dashboard</module>
+        <module>turbine</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
