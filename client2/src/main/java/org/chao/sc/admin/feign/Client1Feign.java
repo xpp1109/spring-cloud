@@ -1,4 +1,4 @@
-package org.chao.sc.client2.feign;
+package org.chao.sc.admin.feign;
 
 import feign.hystrix.FallbackFactory;
 import lombok.extern.slf4j.Slf4j;

@@ -1,6 +1,6 @@
-package org.chao.sc.client2;
+package org.chao.sc.admin;
 
-import org.chao.sc.client2.feign.Client1Feign;
+import org.chao.sc.admin.feign.Client1Feign;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.SpringApplication;
 import org.springframework.cloud.client.SpringCloudApplication;
