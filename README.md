@@ -11,4 +11,4 @@
 ## Spring Cloud 声明式REST客户端OpenFeign （https://mp.weixin.qq.com/s/yorNV0oXs3pmviLmy_WRlA）
 
 本项目介绍，可访问公众号查看原创文章
-![微信公众号](https://github.com/shizhenchao/spring-cloud/blob/master/wxgzh-qrcode.jpgg)
+![微信公众号](https://github.com/shizhenchao/spring-cloud/blob/master/wxgzh-qrcode.jpg)
