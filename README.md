@@ -20,6 +20,8 @@ https://mp.weixin.qq.com/s/l8OpvOGhTUL_MU437Kv5Cg
 https://mp.weixin.qq.com/s/3q1Coshlw2fiE3edYSrUsQ
 ## Spring Cloud 声明式REST客户端OpenFeign 
 https://mp.weixin.qq.com/s/yorNV0oXs3pmviLmy_WRlA
+## Spring Cloud 使用admin监控项目
+https://mp.weixin.qq.com/s/UJoP2USd77rLD5Ia64rIKg
 
 本项目介绍，可访问公众号查看原创文章
 ![微信公众号](https://github.com/shizhenchao/spring-cloud/blob/master/wxgzh-qrcode.jpg)
